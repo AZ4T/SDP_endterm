@@ -4,5 +4,6 @@ public class Main {
         System.out.println(321); // biba
         System.out.println("Hello Azat"); //biba
         System.out.println("2"); //sultan
+        System.out.println("Hello Sultan"); //sultan
     }
 }
